@@ -1,4 +1,4 @@
 def upper_line():
-    """Делает буквы заглавными """
+    """Делает буквы заглавными и возвращает"""
     string = input()
     return string.upper()
